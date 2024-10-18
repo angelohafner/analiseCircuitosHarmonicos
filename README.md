@@ -57,7 +57,3 @@ pip install numpy plotly
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-Special thanks to [Gustavo](https://github.com/gustavo) for the idea and initial implementation.
